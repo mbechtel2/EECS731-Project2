@@ -1,1 +1,3 @@
-# EECS731-Project2
+## EECS731 Project2 - To be, or not to be
+
+In this project, I perform classification on a given dataset for Shakespeare plays and determine whether feature subsets can be used to accurately represent the entire dataset. In the end, I find that some subsets can achieve similar performance to the case where the entire feature set is used, but that the same can't be said for other subsets as they achieve signficantly worse performance compared to the entire feature set.
